@@ -7,7 +7,7 @@
    - [ ] Affine Cipher
    - [ ] Playfair Cipher
    - [ ] Hill Cipher
-   - [ ] Vigenere Ciphere
+   - [x] [Vigenere Ciphere](./traditional/vigenere.cpp)
    - [ ] Rail fence - row & column transformation
 
 2. Implement the following algorithms:
