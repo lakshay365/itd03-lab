@@ -3,7 +3,7 @@
 1. Implement the following traditional ciphers:
 
    - [x] [Shift Cipher](./traditional/shift.cpp)
-   - [ ] Multiplicative Cipher
+   - [x] [Multiplicative Cipher](./traditional/multiplicative.cpp)
    - [ ] Affine Cipher
    - [ ] Playfair Cipher
    - [ ] Hill Cipher
