@@ -4,7 +4,7 @@
 
    - [x] [Shift Cipher](./traditional/shift.cpp)
    - [x] [Multiplicative Cipher](./traditional/multiplicative.cpp)
-   - [ ] Affine Cipher
+   - [x] [Affine Cipher](./traditional/affine.cpp)
    - [ ] Playfair Cipher
    - [ ] Hill Cipher
    - [x] [Vigenere Ciphere](./traditional/vigenere.cpp)
