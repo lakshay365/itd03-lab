@@ -69,6 +69,4 @@ int main()
 		cout << "Decrypted text: " << decrypt(s, key) << "\n";
 
 	return 0;
-
-	return 0;
 }
